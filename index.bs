@@ -1,20 +1,16 @@
 <pre class='metadata'>
-Title: The TODO API
-Shortname: todo
+Title: ActivityPub Server-to-Service Content Delivery
+Shortname: activitypub-service-content-delivery
 Level: None
 Status: w3c/UD
-Repository: explainers-by-googlers/todo-your-repo-name
-URL: https://explainers-by-googlers.github.io/todo-your-repo-name
-Editor: TODO: Your Name, Google https://google.com, TODO@google.com
-Abstract: TODO: A short description of your spec, one or two sentences.
+Repository: explainers-by-googlers/activitypub-service-content-delivery
+URL: https://explainers-by-googlers.github.io/activitypub-service-content-delivery
+Editor: Liam Roche, Google https://google.com, liamroche@google.com
+Abstract: A standardized mechanism for ActivityPub servers to deliver public content to third-party ActivityPub services.
 Markup Shorthands: markdown yes, css no
 Complain About: accidental-2119 yes, missing-example-ids yes
 Assume Explicit For: yes
 Die On: warning
-WPT Path Prefix: TODO-API-LABEL
-WPT Display: closed
-Include MDN Panels: if possible
-Include Can I Use Panels: yes
 </pre>
 
 Introduction {#intro}
